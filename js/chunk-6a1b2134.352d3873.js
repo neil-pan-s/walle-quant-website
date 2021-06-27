@@ -1,4 +1,4 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-6a1b2134"],{"2acb":function(e,t,s){e.exports=s.p+"img/wx.7aebc169.png"},7212:function(e,t,s){
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-6a1b2134"],{"2acb":function(e,t,s){e.exports=s.p+"img/wx.7a4be9c4.png"},7212:function(e,t,s){
 /*!
  * vue-awesome-swiper v4.1.1
  * Copyright (c) Surmon. All rights reserved.
